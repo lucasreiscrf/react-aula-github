@@ -1,6 +1,7 @@
 import './App.css'
 
 import Teste from './Teste'
+import Texto from './Texto'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <div>
           <Teste nome = "Leonardoo" />
           <Teste nome = "Ricardo" />
+          <Texto />
       </div>
     </>
   )
